@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Worker - Consumer EDA RabbitMQ": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:5265",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
